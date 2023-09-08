@@ -1,0 +1,15 @@
+Task4: Write a short note on Tag and element with an example?
+
+solution:
+
+1. Tags:
+ - In HTML, a tag is a code snippet enclosed in angle brackets "<" and ">" that is used to define various elements within a web page.
+ - Tags are used to structure and format the content of a web page, allowing browsers to interpret and display the content correctly.
+
+
+2. Elements: 
+- An element is a combination of an opening tag, content, and a closing tag.
+- It represents a complete structure within an HTML document.
+- Elements define the structure and content of a web page. 
+- They can be as simple as a single word or as complex as a section of text, an image, a link, or even an entire page.
+
