@@ -1,0 +1,11 @@
+Task 4:List any 3 ways which help us in improving the accessibility of HTML.
+
+solution:
+
+Improving the accessibility of HTML, which makes web content more usable for people with disabilities, can be done through various simple methods:
+
+1. Use Semantic HTML Elements: Semantic elements like `<header>`, `<nav>`, `<main>`, `<article>`, and `<footer>` provide a clear structure to your web page, making it easier for screen readers and assistive technologies to understand the content and navigate the site.
+
+2. Provide Alt Text for Images: Adding descriptive text using the `alt` attribute to your `<img>` elements ensures that people with visual impairments can understand the content of images on your site since screen readers will read the alt text aloud.
+
+3. Use Proper Heading Hierarchies: Ensure a logical heading structure using `<h1>`, `<h2>`, `<h3>`, etc., to outline the content's hierarchy. This helps screen reader users in comprehending the page's organization and aids everyone in navigating the content more easily.

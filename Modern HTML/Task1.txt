@@ -1,0 +1,33 @@
+Task 1: List out the features of HTML5
+
+solution:
+
+- Semantic Elements : Clearer structure for content.
+
+- Multimedia Support : Native audio and video embedding.
+
+- Canvas : Dynamic graphics and animations.
+
+- Geolocation : Access user location.
+
+- Local Storage : Store data on devices.
+
+- Form Enhancements : Improved input types.
+
+- Web Workers : Background scripts.
+
+- Responsive Design : Adapt to screen sizes.
+
+- Web Storage : Efficient data storage.
+
+- Improved Semantics : Better document structure.
+
+- Cross-Platform Compatibility : Consistency across browsers.
+
+- Drag and Drop : Intuitive interactions.
+
+- Offline Support : Work without the internet.
+
+- Websockets : Real-time communication.
+
+- Scalable Vector Graphics (SVG) : High-quality vector graphics.
