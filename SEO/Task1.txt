@@ -2,7 +2,8 @@ Task 1:What is SEO and explain the importance of SEO?
 
 solution:
 
-SEO (Search Engine Optimization) is the process of making your website more visible and attractive to search engines like Google. It involves using strategies to improve your website's ranking in search results so that more people can find and visit your site.
+- SEO (Search Engine Optimization) is the process of making your website more visible and attractive to search engines like Google.
+- It involves using strategies to improve your website's ranking in search results so that more people can find and visit your site.
 
 The importance of SEO
 
