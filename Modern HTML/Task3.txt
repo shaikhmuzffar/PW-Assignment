@@ -4,7 +4,7 @@ solution:
 
 Accessibility in web development means making websites and web applications usable by people with disabilities. It involves designing and coding websites in a way that accommodates various impairments and ensures everyone, regardless of their abilities, can access and interact with online content.
 
-Here's why creating accessible websites is crucial and how it benefits different user groups in simple terms:
+benefits of accessibility to different user groups:
 
 1. Inclusivity: Accessible websites include people with disabilities like visual, hearing, mobility, or cognitive impairments. It ensures that everyone, regardless of their abilities, can use the web effectively.
 
