@@ -2,7 +2,8 @@ Task 3:Define accessibility in the context of web development.Discuss why it is 
 
 solution:
 
-Accessibility in web development means making websites and web applications usable by people with disabilities. It involves designing and coding websites in a way that accommodates various impairments and ensures everyone, regardless of their abilities, can access and interact with online content.
+- Accessibility in web development means making websites and web applications usable by people with disabilities. 
+- It involves designing and coding websites in a way that accommodates various impairments and ensures everyone, regardless of their abilities, can access and interact with online content.
 
 benefits of accessibility to different user groups:
 
