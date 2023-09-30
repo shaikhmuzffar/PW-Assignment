@@ -1,0 +1,11 @@
+/* styles.css */
+#myDiv {
+    border: 2px solid green;
+    font-size: 18px;
+}
+
+/* Adding comments in CSS */
+/* This comment explains the border style below */
+#myDiv p {
+    border: 1px dashed gray;
+}

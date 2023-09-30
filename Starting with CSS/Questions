@@ -1,0 +1,7 @@
+task1: create a simple page with some div tags and show different ways to add CSS as well as what happens when you target the same element with inline, internal and external CSS. also utilize comments in the project where required 
+
+task2:
+Build an HTML page with multiple paragraphs, each assigned a unique class name. Write CSS rules using class selectors to apply distinct styling to each paragraph. Follow the BEM naming convention and explain how you've named the classes.
+
+task3:
+Devlop an HTML form with various input elements. Use CSS to style the form, including setting background colors for input fields. Create a custom color paletts for the form elements, and demonstrate how to apply opacity to one of the form selections.

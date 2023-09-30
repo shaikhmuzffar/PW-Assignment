@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BEM Example</title>
+    <style>
+        /* Base styles for paragraphs */
+        .paragraph {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        /* BEM-style class names and explanations */
+
+        /* Element: .paragraph__intro */
+        .paragraph__intro {
+            font-weight: bold;
+        }
+
+        /* Element: .paragraph__body */
+        .paragraph__body {
+            line-height: 1.5;
+        }
+
+        /* Modifier: .paragraph--important */
+        .paragraph--important {
+            color: red;
+        }
+
+        /* Block: .paragraph */
+        /* Element: .paragraph__quote */
+        .paragraph__quote {
+            font-style: italic;
+            border-left: 2px solid #333;
+            padding-left: 10px;
+        }
+
+        /* Modifier: .paragraph--highlighted */
+        .paragraph--highlighted {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <p class="paragraph paragraph__intro">Welcome to our website!</p>
+
+    <p class="paragraph paragraph__body">This is a sample HTML page with multiple paragraphs.</p>
+
+    <p class="paragraph paragraph--important paragraph__body">Please read the following information carefully.</p>
+
+    <p class="paragraph paragraph__quote">"BEM is a methodology for writing clean and maintainable CSS."</p>
+
+    <p class="paragraph paragraph--highlighted paragraph__body">This text is highlighted for emphasis.</p>
+</body>
+</html>
