@@ -1,0 +1,20 @@
+Task2: explain the difference between Absolute and Relative positioning.
+
+solution: 
+
+difference between absolute and relative positioning:
+
+Absolute Positioning:
+
+- Absolute positioning is like giving an object an exact address.
+- When you use absolute positioning in web design or graphics, you specify precisely where an element should be on the page, like "Put this image 100 pixels from the top and 50 pixels from the left."
+- The element stays in that exact spot, regardless of what's around it. It doesn't care about other elements nearby.
+
+
+Relative Positioning:
+
+- Relative positioning is like telling an object to position itself relative to something nearby.
+- With relative positioning, you say, "Put this text next to the image" or "Keep this box below the heading."
+- It's all about how an element relates to other elements. If you move the reference element (like the image or heading), the positioned element moves along with it because it's linked to the reference.
+
+In summary, absolute positioning is like giving an element an exact address, while relative positioning is about placing an element in relation to something else on the page.

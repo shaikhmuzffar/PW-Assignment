@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+  .container {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+  }
+
+  .box {
+    width: 50px;
+    height: 50px;
+    background-color: #25e2d9;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    text-align: center;
+  }
+
+  .box:nth-child(2) {
+    transform: translate(-30px, -30px);
+  }
+
+  .box:nth-child(3) {
+    transform: translate(30px, -30px);
+  }
+
+  .box:nth-child(4) {
+    transform: translate(-30px, 30px);
+  }
+
+  .box:nth-child(5) {
+    transform: translate(30px, 30px);
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="box">A</div>
+  <div class="box">B</div>
+  <div class="box">C</div>
+  <div class="box">D</div>
+  <div class="box">E</div>
+</div>
+
+</body>
+</html>

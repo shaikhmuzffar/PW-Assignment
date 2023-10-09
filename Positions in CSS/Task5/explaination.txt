@@ -1,0 +1,5 @@
+Task 5: Explain the z-index, with a simple code example.
+
+solution:
+
+ the z-index property is used to control the stacking order of elements on a webpage.It determines which element should appear on top of others when they overlap.

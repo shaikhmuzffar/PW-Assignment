@@ -1,0 +1,19 @@
+task2: Explain the role of the following key properties in the Flexbox layout mode?
+
+1. justify-content
+2. align-items
+3. gap
+4. flex-direction
+5. flex-wrap
+
+solution:
+
+1. justify-content: This helps with how stuff spreads out from left to right (or top to bottom). Imagine you have a row of books on a shelf. `justify-content` helps decide if they should all be pushed to one end, spread out evenly, or something in between.
+
+2. align-items: Think of this as arranging the books vertically on the shelf. `align-items` decides if they should be at the top, middle, or bottom of the shelf, or maybe stretch to fill the whole shelf.
+
+3. gap: This is like adding some space between the books on the shelf. It makes sure they're not too squished together. You can set how much space you want between them.
+
+4. flex-direction: Imagine your shelf can be a vertical one (like a tower of books) or a horizontal one (like a row of books). `flex-direction` lets you choose if your books should go up and down (`column`) or left to right (`row`).
+
+5. flex-wrap: Normally, your books try to fit on one shelf without falling off. But if you have too many books, `flex-wrap` lets you decide if they should start a new shelf (like a new row) or just keep squeezing onto the same shelf.

@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 64px;
+}
+
+
+
+
+/* ==================== white card ========================*/
+
+.cardWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 262px;
+    height: 363px;
+    gap: 32px;
+    border-radius: 8px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+/* cardInfo */
+.cardInfo{
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+}
+
+/* .cardheader */
+.cardheader {
+    line-height: 30px;
+}
+.cardSubHeader{
+    font-size: 16px;
+}
+.headerAndSubHeader{
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* cardPrice */
+.cardPrice{
+    font-weight: 400;
+    font-size: 36px;
+}
+
+.cardHeaderAndPrice{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+
+/* .cardFeatures  */
+.cardFeatures {
+    display: flex;
+    flex-direction: column;
+}
+
+/* .cardFeature  */
+.cardFeature {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+/* cardBTN */
+.cardBTN{
+    text-decoration: none;
+    background-color: #202842;
+    padding: 8px 24px 8px 24px;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+
+/* ==================== blue card ========================*/
+
+
+#cardBlue{
+    background-color: #202842;
+    color: #fff;
+}
+
+#cardBlue .cardBTN{
+    background-color: #fff;
+    color: #202842;
+    font-weight: 600;
+}
+#cardBlue .cardFeatures{
+    gap: 8px;
+}
+#cardBlue .cardFeature{
+    gap: 5px;
+}

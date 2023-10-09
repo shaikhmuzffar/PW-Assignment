@@ -1,0 +1,16 @@
+task 1:  Describe the main differences between the CSS Flexbox layout model and the CSS Grid layout model. When would you choose to use one over the other?
+
+
+solution:
+
+1.Flexbox: is like arranging items in a line, either horizontally or vertically. Imagine lining up books on a shelf. If you want them all to be at the same height or have equal spacing between them, Flexbox is your go-to.
+
+2.Grid: is like making a table with rows and columns, where you can place items in cells. Picture a spreadsheet. Grid is great when you want to create things like a tic-tac-toe board or a magazine-style layout with rows and columns.
+
+
+
+So, when to use what?
+
+Use Flexbox when you want to arrange items in a single line, like in a menu bar, or if you want to center things easily.
+
+Use Grid when you want to create a grid-like structure with rows and columns, like for a photo gallery or a webpage layout.
