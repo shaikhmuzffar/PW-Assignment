@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task5</title>
+    <style>
+
+
+/* 
+justify-items:
+The justify-items property is used to align all grid items within a grid container along the inline (horizontal) axis. 
+It sets the horizontal alignment for all items within the grid.
+ */
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            justify-items: center;
+            /* Aligns all items horizontally to the center */
+        }
+
+/* 
+justify-self:
+The justify-self property is used to control the horizontal alignment of individual grid items within the grid.
+ It allows you to specify the horizontal alignment on a per-item basis.
+ */
+        .item {
+            background-color: lightblue;
+            border: 1px solid darkblue;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .end-item {
+            justify-self: end;
+            /* Aligns this specific item to the end of its cell */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="grid-container">
+        <div class="item">Item 1</div>
+        <div class="item">Item 2</div>
+        <div class="item end-item">Item 3 (End)</div>
+    </div>
+</body>
+
+</html>

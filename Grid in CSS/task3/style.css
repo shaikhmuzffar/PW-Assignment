@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Defines 3 columns */
+    grid-auto-rows: 100px; /* Sets the height of implicitly created rows to 100px */
+    grid-auto-columns: 1fr; /* Sets the width of implicitly created columns to 1fr */
+  }
+  
+  .item {
+    background-color: lightblue;
+    border: 1px solid darkblue;
+    padding: 10px;
+    text-align: center;
+  }

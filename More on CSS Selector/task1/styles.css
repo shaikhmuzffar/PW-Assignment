@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* B. Using Combinator Selectors */
+a {
+    color: red;
+  }
+  
+  h2:first-of-type {
+    color: blue;
+    background-color: yellow;
+  }
+  
+  p:first-of-type {
+    color: red;
+  }
+  
+  /* C. Using Attribute Selectors */
+  a[href] {
+    color: red;
+    text-decoration: none;
+  }
+  
+  a.active {
+    color: green;
+    text-decoration: underline;
+  }
+  
+  a[target="_self"] {
+    background-color: lightgray;
+  }
+  
+  /* D. Using Pseudo-selectors */
+  p:last-of-type::after {
+    content: "...";
+  }
+  
+  li::marker {
+    color: orange;
+  }
+  
+  p:nth-of-type(2)::first-letter {
+    color: red;
+    font-size: 30px;
+  }
+  
